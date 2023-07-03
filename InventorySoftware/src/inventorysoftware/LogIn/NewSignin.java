@@ -336,6 +336,7 @@ public class NewSignin extends javax.swing.JFrame {
 
         txtMatKhau.setBackground(new java.awt.Color(21, 25, 28));
         txtMatKhau.setForeground(new java.awt.Color(169, 224, 49));
+        txtMatKhau.setText("admin");
         txtMatKhau.setAutoscrolls(false);
         txtMatKhau.setCaretColor(new java.awt.Color(169, 224, 49));
         txtMatKhau.setDisabledTextColor(new java.awt.Color(169, 224, 49));
@@ -347,6 +348,7 @@ public class NewSignin extends javax.swing.JFrame {
 
         txtPass.setBackground(new java.awt.Color(21, 25, 28));
         txtPass.setForeground(new java.awt.Color(169, 224, 49));
+        txtPass.setText("123");
         txtPass.setCaretColor(new java.awt.Color(169, 224, 49));
         txtPass.setDisabledTextColor(new java.awt.Color(169, 224, 49));
         txtPass.setLabelText("Mật khẩu");

@@ -690,6 +690,7 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="31" green="e0" red="a9" type="rgb"/>
             </Property>
+            <Property name="text" type="java.lang.String" value="admin"/>
             <Property name="autoscrolls" type="boolean" value="false"/>
             <Property name="caretColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="31" green="e0" red="a9" type="rgb"/>
@@ -722,6 +723,7 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="31" green="e0" red="a9" type="rgb"/>
             </Property>
+            <Property name="text" type="java.lang.String" value="123"/>
             <Property name="caretColor" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="31" green="e0" red="a9" type="rgb"/>
             </Property>
